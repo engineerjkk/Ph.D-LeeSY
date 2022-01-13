@@ -1,2 +1,7 @@
 1. [Deep Visual SLAM Frontends: SuperPoint, SuperGlue, and SuperMaps (#CVPR2020 Invited Talk)](https://www.youtube.com/watch?v=u7Yo5EtOATQ)
 2. [Co-visibility graph(공가시성 그래프)](https://elecs.tistory.com/310)
+3. [HF-Net](https://arxiv.org/pdf/1812.03506.pdf)
+4. [HF-Net 블로그](https://hello-stella.tistory.com/66)
+5. [HF-Net GitHub](https://github.com/ethz-asl/hfnet)
+6. [Leveraging Deep Visual Descriptors for Hierarchical Efficient Localization](https://www.youtube.com/results?search_query=visual+hierarchical+localization.)
+7. [https://www.youtube.com/results?search_query=visual+hierarchical+localization.](https://www.youtube.com/watch?v=bbJRag3wMfE)
