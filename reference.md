@@ -6,3 +6,4 @@
 6. [Leveraging Deep Visual Descriptors for Hierarchical Efficient Localization](https://www.youtube.com/results?search_query=visual+hierarchical+localization.)
 7. [https://www.youtube.com/results?search_query=visual+hierarchical+localization.](https://www.youtube.com/watch?v=bbJRag3wMfE)
 8. [HF-Net 블로그](https://hello-stella.tistory.com/66)
+9. [50문 50답](https://dxsxgxnxxr.gitbook.io/2-1/dd/50-50)
