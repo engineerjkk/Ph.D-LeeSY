@@ -12,3 +12,4 @@
 12. [카네기멜론 대학 강의 자료](http://www.cs.cmu.edu/~16385/)
 13. [숭실대 Superpoint-SLAM](https://www.youtube.com/watch?v=CabpDI5RWo8)
 14. [SuperGlue YouTube](https://www.youtube.com/watch?v=zyBsVxTVdiY&list=WL&index=1)
+15. [SuperGlue2 YouTube](https://www.youtube.com/watch?v=95Eysm0IeB0)
