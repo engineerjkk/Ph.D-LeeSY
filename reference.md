@@ -15,3 +15,8 @@
 15. [SuperGlue2 YouTube](https://www.youtube.com/watch?v=95Eysm0IeB0)
 16. [settings Open AccessArticle A Visual and VAE Based Hierarchical Indoor Localization Method](https://www.mdpi.com/1424-8220/21/10/3406/htm)
 17. [Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences](https://deepai.org/publication/monocular-camera-localization-in-prior-lidar-maps-with-2d-3d-line-correspondences)
+* 2D-3D Correspondence 문제
+18. [A 6-DOF Navigation Method based on Iterative Closest Imaging Point Algorithm](https://www.nature.com/articles/s41598-017-17768-2.pdf?proof=t)
+19. [Real-time Image-based 6-DOF Localization in Large-Scale Environments](https://snsinha.github.io/pdfs/LimCVPR2012.pdf)
+20. [6-DoF Pose Localization in 3D Point-Cloud Dense Maps Using a Monocular Camera](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6739720)
+21. [Learning 2D-3D Correspondences To Solve The Blind Perspective-n-Point Problem](https://arxiv.org/pdf/2003.06752.pdf)
