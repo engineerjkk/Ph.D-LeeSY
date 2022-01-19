@@ -13,3 +13,5 @@
 13. [숭실대 Superpoint-SLAM](https://www.youtube.com/watch?v=CabpDI5RWo8)
 14. [SuperGlue YouTube](https://www.youtube.com/watch?v=zyBsVxTVdiY&list=WL&index=1)
 15. [SuperGlue2 YouTube](https://www.youtube.com/watch?v=95Eysm0IeB0)
+16. [settings Open AccessArticle A Visual and VAE Based Hierarchical Indoor Localization Method](https://www.mdpi.com/1424-8220/21/10/3406/htm)
+17. [Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences](https://deepai.org/publication/monocular-camera-localization-in-prior-lidar-maps-with-2d-3d-line-correspondences)
