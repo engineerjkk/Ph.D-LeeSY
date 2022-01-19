@@ -20,3 +20,7 @@
 19. [Real-time Image-based 6-DOF Localization in Large-Scale Environments](https://snsinha.github.io/pdfs/LimCVPR2012.pdf)
 20. [6-DoF Pose Localization in 3D Point-Cloud Dense Maps Using a Monocular Camera](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6739720)
 21. [Learning 2D-3D Correspondences To Solve The Blind Perspective-n-Point Problem](https://arxiv.org/pdf/2003.06752.pdf)
+* 카메라 포즈를 최종적으로 추종하는 Perspective n Point 문제
+22. [Projective 3 Point Algorithm - 5 Minutes with Cyrill](https://www.youtube.com/watch?v=xdlLXEyCoJY)
+23. [Perspective N Points PnP Explained](https://www.youtube.com/watch?v=RR8WXL-kMzA)
+24. [ECCV2020 Oral: Solving the Blind Perspective-n-Point Problem End-to-End](https://www.youtube.com/watch?v=hkUw6tu9Rzc)
