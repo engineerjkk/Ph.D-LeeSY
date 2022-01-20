@@ -25,3 +25,4 @@
 23. [Perspective N Points PnP Explained](https://www.youtube.com/watch?v=RR8WXL-kMzA)
 24. [ECCV2020 Oral: Solving the Blind Perspective-n-Point Problem End-to-End](https://www.youtube.com/watch?v=hkUw6tu9Rzc)
 25. [3D Rotation Converter](https://www.andre-gaschler.com/rotationconverter/)
+26. [Convert Ratation Matrix to Euler Angles](https://danceswithcode.net/engineeringnotes/rotations_in_3d/rotations_in_3d_part1.html)
