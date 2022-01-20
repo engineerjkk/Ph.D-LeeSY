@@ -24,3 +24,4 @@
 22. [Projective 3 Point Algorithm - 5 Minutes with Cyrill](https://www.youtube.com/watch?v=xdlLXEyCoJY)
 23. [Perspective N Points PnP Explained](https://www.youtube.com/watch?v=RR8WXL-kMzA)
 24. [ECCV2020 Oral: Solving the Blind Perspective-n-Point Problem End-to-End](https://www.youtube.com/watch?v=hkUw6tu9Rzc)
+25. [3D Rotation Converter](https://www.andre-gaschler.com/rotationconverter/)
