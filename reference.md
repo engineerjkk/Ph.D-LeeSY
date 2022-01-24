@@ -29,3 +29,4 @@
 27. [카메라 캘리브레이션](https://www.youtube.com/watch?v=XRmdUfkIu08)
 * 최적화
 28. [비선형 최적화 Non-linear optimisation - Gradient descent, Newton-Raphson, Gauss-Newton, Levenberg-Marquardt](http://www.cv-learn.com/20210314-nonlinear-optimisation/)
+29. [공돌이의 수학노트](https://angeloyeo.github.io/2020/08/16/gradient_descent.html)
