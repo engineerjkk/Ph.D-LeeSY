@@ -30,3 +30,4 @@
 * 최적화
 28. [비선형 최적화 Non-linear optimisation - Gradient descent, Newton-Raphson, Gauss-Newton, Levenberg-Marquardt](http://www.cv-learn.com/20210314-nonlinear-optimisation/)
 29. [공돌이의 수학노트](https://angeloyeo.github.io/2020/08/16/gradient_descent.html)
+30. [[SLAM] Bundle Adjustment의 Jacobian 계산](http://jinyongjeong.github.io/2020/03/01/Jacobian_of_BA/)
