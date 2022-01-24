@@ -33,3 +33,6 @@
 30. [[SLAM] Bundle Adjustment의 Jacobian 계산](http://jinyongjeong.github.io/2020/03/01/Jacobian_of_BA/)
 31. [3rd Place Solution to NAVER LABSMapping & Localization Challenge 2020: Indoor Track](https://www.youtube.com/watch?v=J5143Ct6Tdo)
 32. [세종대](https://github.com/sejong-rcv/SejongRCV-Indoor)
+* reprojection
+33. [블로그](https://leechamin.tistory.com/345)
+34. [데이터셋](https://github.com/EduRibeiro00/ArtworkRecognition-feup-vcom/tree/37f381ffb02862ad6a3cdac321e68a793c30aab9)
