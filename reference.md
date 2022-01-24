@@ -27,3 +27,5 @@
 25. [3D Rotation Converter](https://www.andre-gaschler.com/rotationconverter/)
 26. [Convert Ratation Matrix to Euler Angles](https://danceswithcode.net/engineeringnotes/rotations_in_3d/rotations_in_3d_part1.html)
 27. [카메라 캘리브레이션](https://www.youtube.com/watch?v=XRmdUfkIu08)
+* 최적화
+28. [비선형 최적화 Non-linear optimisation - Gradient descent, Newton-Raphson, Gauss-Newton, Levenberg-Marquardt](http://www.cv-learn.com/20210314-nonlinear-optimisation/)
