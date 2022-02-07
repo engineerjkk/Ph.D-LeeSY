@@ -40,3 +40,5 @@
 * DataSet
 36. [InLoc 데이터셋](https://data.ciirc.cvut.cz/public/projects/2020VisualLocalization/InLoc/) 
 37. [HF-Net]( https://github.com/cvg/Hierarchical-Localization)
+38. [InLoc DUC2?](https://github.com/cvg/Hierarchical-Localization/issues/19)
+39. [상윤이형질문](https://github.com/cvg/Hierarchical-Localization/issues/84)
